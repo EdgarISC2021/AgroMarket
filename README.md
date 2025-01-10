@@ -60,7 +60,7 @@ git push origin nueva-funcionalidad
 Abre un pull request.
 Créditos ✨
 
-Desarrollado por:
+### Desarrollado por:
 
 Edgar Barajas Rodríguez
 Diego Valdez Martínez
