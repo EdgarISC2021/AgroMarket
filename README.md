@@ -38,11 +38,11 @@ i: para iOS.
 a: para Android.
 Uso de la Aplicación 📲
 
-Acceso inicial:
+## Acceso inicial:
 Usuario predeterminado: edgar@gmail.com.
 Contraseña: 123456.
 También puedes registrarte como nuevo usuario.
-Navegación principal:
+## Navegación principal:
 Pantalla de inicio con opciones para iniciar sesión o registrarse.
 Registro de productos mediante un formulario accesible desde el botón +.
 Contacto directo con los vendedores desde las publicaciones.
@@ -72,5 +72,5 @@ Contacto 📧
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos:
 
-Edgar Barajas: isc_ebarajas2021@accitesz.com
+Edgar Barajas: isc_ebarajas2021@accitesz.com 
 Diego Valdez: isc_dmartinez2021@accitesz.com
