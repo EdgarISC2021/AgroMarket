@@ -73,4 +73,5 @@ Contacto 📧
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos:
 
 Edgar Barajas: isc_ebarajas2021@accitesz.com 
+
 Diego Valdez: isc_dmartinez2021@accitesz.com
